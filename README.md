@@ -1,3 +1,5 @@
+![CI](https://github.com/laguchoritarik/jestcalculator/actions/workflows/test.yml/badge.svg)
+
 <<<<<<< HEAD
 # jestcalculator
 =======
