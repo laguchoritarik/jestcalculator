@@ -9,5 +9,5 @@ test('subtracts numbers', () => {
 });
 test("multiplication de deux reels ",()=>
 {
-  expect(multiply(9,8)).toBe(72)
+  expect(multiply(9,8)).toBe(73)
 })
