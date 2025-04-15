@@ -32,8 +32,9 @@ jobs:
 
       - name: 🧹 Lint code
         run: |
-          echo "🔍 Running ESLint..."
-        run: npm run lint || (echo "❌ Linting failed" && exit 1)
+           echo "🔍 Running ESLint..."
+           npm run lint || (echo "❌ Linting failed" && exit 1)
+
 
       - name: 🧪 Run tests
         run: |
